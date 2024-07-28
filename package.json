@@ -1,0 +1,35 @@
+{
+  "name": "fsd-gas-booking-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gsara3497/fsd-gas-slot-bookingBE.git"
+  },
+  "author": "saravanapriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gsara3497/fsd-gas-slot-bookingBE/issues"
+  },
+  "homepage": "https://github.com/Gsara3497/fsd-gas-slot-bookingBE#readme",
+  "description": "**gas slot booking app**",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "nodemailer": "^6.9.14",
+    "razorpay": "^2.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

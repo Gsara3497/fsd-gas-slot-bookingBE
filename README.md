@@ -24,5 +24,9 @@ step3: vs code -> to create .gitignore file and index.js, Controller, Models, Da
 
 step4: Then i use [postman] App -> Add collection -> then create [ gas_booking ] -> Then Add Request for get my result.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 step5: Then deployed for github and Render.com [ https://github.com/Gsara3497/fsd-gas-slot-bookingBE.git ]
 
